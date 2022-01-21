@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Bé Nhi à, lại là chú Sơn đêyyyy!',
+    introTitle: 'Bé Nhi ưiii, lại là chú Sơn đêyyyy!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao Nhi cứ không nhầm đường
-    Lạc vào tym anh thế này
-    Khi nào vào thì nói anh nha, để anh open the door nha ^^!`,
-    btnIntro: 'hehe zui zẻ không quạo',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    Lạc vào tym anh thế lầy ^^!`,
+    btnIntro: 'hehe click vào đây nè',
+    title: 'Pé Nhii đi xem phim với anh nheee 😙',
+    desc: 'Pé Nhii cute phô mai que :33333 ',
+    btnYes: 'Đi liền nhaaaa <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    question:'Đừng có mơ mà bấm được vào NO nhá, anh tính hết rồi, Có muốn nhắn nhủ gì anh thì điền vào <3',
+    btnReply: 'Gửi cho anh Sơnnn <3',
+    reply: 'Anh Sơn là nhất, là number one :))33333333',
+    mess: 'Anh biết mà 🥰. không cần phải khen đâu 😘😘',
+    messDesc: 'Tối thứ 4 anh qua đón nha Bé.',
+    messDesc: 'Giờ thì lo học đi nhaaaa.:33',
+    btnAccept: 'Okiiiii pye emmmm <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
